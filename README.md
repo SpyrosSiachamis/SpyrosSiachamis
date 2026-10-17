@@ -6,3 +6,5 @@ Hello! My name is Spiros Siahamis and I am currently studying Computer Science a
 
 <h2>Activity</h2>
 <img src="https://github.pumbas.net/api/contributions/SpyrosSiachamis?colour=FF0000&bgColour=000000&dotColour=FFFFFF" alt="GitHub Contributions" />
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SpyrosSiachamis)](https://github.com/stats-organization/github-stats-extended)
