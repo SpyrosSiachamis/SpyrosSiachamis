@@ -1,5 +1,16 @@
 ## Personal Information
-Hello! My name is Spiros Siahamis and I am currently studying Computer Science at the University Of Crete
+<h1>Hi, I'm Spyros</h1>
+
+<p>
+  I'm a Computer Science student at the University of Crete, focused on
+  <strong>backend engineering and AI engineering</strong>.
+</p>
+
+<p>
+  I'm interested in backend architecture, API development, and AI-powered
+  systems. I enjoy exploring how intelligent systems can be built on top
+  of reliable software infrastructure.
+</p>
 <h2>Activity</h2>
 <p align="center"> <img src="https://github.pumbas.net/api/contributions/SpyrosSiachamis?colour=FF6B35&bgColour=0A131B&dotColour=FFFFFF" alt="GitHub Contributions" /> </p>
 <h2>Stats</h2>
