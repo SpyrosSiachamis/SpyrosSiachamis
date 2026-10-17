@@ -5,6 +5,11 @@ Hello! My name is Spiros Siahamis and I am currently studying Computer Science a
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SpyrosSiachamis&theme=ayu-mirage&hide_border=true" alt="Streak Stats" width="70%"> </p>
 
 <h2>Activity</h2>
+<p align="center">
 <img src="https://github.pumbas.net/api/contributions/SpyrosSiachamis?colour=FF0000&bgColour=000000&dotColour=FFFFFF" alt="GitHub Contributions" />
-
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=SpyrosSiachamis)](https://github.com/stats-organization/github-stats-extended)
+</p>
+<h2>Stats</h2>
+<p align="center">
+  <img align="top" height="195" src="https://github-stats-extended.vercel.app/api?username=SpyrosSiachamis&theme=codeSTACKr&hide_border=true" alt="GitHub Stats" />
+  <img align="top" height="195" src="https://github-stats-extended.vercel.app/api/top-langs?username=SpyrosSiachamis&layout=compact&langs_count=8&theme=codeSTACKr&hide_border=true" alt="Top Languages" />
+</p>
